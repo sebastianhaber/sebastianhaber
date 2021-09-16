@@ -16,7 +16,7 @@
 
 <br />
 
-My repositories:
+My best projects:
 
 - [Bezbekownia](https://github.com/sebastianhaber/bezbekownia-public) - a place with memes.
 - [Infonite](https://github.com/sebastianhaber/infonite) - app with current shop in Fortnite, built with [Fortnite-api](https://fortnite-api.com/).
