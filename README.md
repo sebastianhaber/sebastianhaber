@@ -2,9 +2,10 @@
 
 <br />
 
-- 👀 I’m looking for my first job
+- 🏫 I'm a student
+- 👀 I'm looking for my first job
 - 🌱 I’m currently improving my skills in React.js
-- 🏫 I'm going to learn React Native
+- 🤠 I'm going to learn React Native
 
 <br />
 
@@ -16,8 +17,8 @@
 
 <br />
 
-My best projects:
+My projects:
 
-- [Bezbekownia](https://github.com/sebastianhaber/bezbekownia-public) - a place with memes.
+- [Bezbekownia](https://github.com/sebastianhaber/bezbekownia-public) - (beta) WebApp where you can see memes, comment and upload own pictures.
 - [Infonite](https://github.com/sebastianhaber/infonite) - app with current shop in Fortnite, built with [Fortnite-api](https://fortnite-api.com/).
 - [Expenses](https://github.com/sebastianhaber/expenses) - save your expenses and incomes, watch what you spend the most money on.
