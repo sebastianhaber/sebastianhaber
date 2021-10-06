@@ -20,5 +20,5 @@
 My projects:
 
 - [Bezbekownia](https://github.com/sebastianhaber/bezbekownia-public) - (beta) WebApp where you can see memes, comment and upload own pictures.
-- [Infonite](https://github.com/sebastianhaber/infonite) - app with current shop in Fortnite, built with [Fortnite-api](https://fortnite-api.com/).
-- [Expenses](https://github.com/sebastianhaber/expenses) - save your expenses and incomes, watch what you spend the most money on.
+- [Infonite](https://github.com/sebastianhaber/infonite) - app with current shop in Fortnite. Built with [Fortnite-api](https://fortnite-api.com/).
+- [Expenses](https://github.com/sebastianhaber/expenses) - save your expenses and incomes, watch what you spend the most money on. Created with [Chakra UI](https://chakra-ui.com/)
