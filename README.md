@@ -19,6 +19,6 @@
 
 My projects:
 
-- [Bezbekownia](https://github.com/sebastianhaber/bezbekownia) - (beta) WebApp where you can see memes, comment and upload own pictures.
+- Bezbekownia - (currently working on) React WebApp with memes. Add your own pictures, like and comment other's memes. Connected to Strapi.
 - [Infonite](https://github.com/sebastianhaber/infonite) - app with current shop in Fortnite. Built with [Fortnite-api](https://fortnite-api.com/).
 - [Expenses](https://github.com/sebastianhaber/expenses) - save your expenses and incomes, watch what you spend the most money on. Created with [Chakra UI](https://chakra-ui.com/)
