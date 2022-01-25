@@ -4,7 +4,7 @@
 
 - 🏫 I'm a student
 - 👀 I'm looking for my first job
-- 🌱 I’m currently improving my skills in React.js
+- 🚀 Currently I am working on Bezbekownia
 - 🤠 I'm going to learn React Native
 
 <br />
@@ -19,6 +19,6 @@
 
 My projects:
 
-- Bezbekownia - (currently working on) React WebApp with memes. Add your own pictures, like and comment other's memes. Connected to Strapi.
+- Bezbekownia - React WebApp with memes. Add your own pictures, like and comment other's memes. Connected to Strapi.
 - [Infonite](https://github.com/sebastianhaber/infonite) - app with current shop in Fortnite. Built with [Fortnite-api](https://fortnite-api.com/).
 - [Expenses](https://github.com/sebastianhaber/expenses) - save your expenses and incomes, watch what you spend the most money on. Created with [Chakra UI](https://chakra-ui.com/)
