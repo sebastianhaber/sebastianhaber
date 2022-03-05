@@ -4,7 +4,7 @@
 
 - 🏫 I'm a student
 - 👀 I'm looking for my first job
-- 🚀 Currently I am working on Bezbekownia and [Money Management](http://github.com/sebastianhaber/moneymanagement "Money Management")
+- 🚀 Currently I am working on Bezbekownia and Money Management
 
 <br />
 
@@ -20,4 +20,4 @@ My projects:
 
 - 😂 Bezbekownia - (Private) React WebApp with memes. Add your own pictures, like and comment other's memes. Connected to Strapi.
 - 🔫 [Infonite](https://github.com/sebastianhaber/infonite "Infonite") - app with current shop in Fortnite. Built with [Fortnite-api](https://fortnite-api.com/).
-- 💲 [Money Management](http://github.com/sebastianhaber/moneymanagement "Money Management") - React Native App, which is created for people who have problems with money controlling.
+- 💲 Money Management - (Private) React Native App, which is created for people who have problems with money controlling.
