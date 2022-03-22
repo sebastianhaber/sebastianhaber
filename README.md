@@ -18,6 +18,6 @@
 
 My projects:
 
-- 😂 Bezbekownia - (Private) React WebApp with memes. Add your own pictures, like and comment other's memes. Connected to Strapi.
+- 😂 [Bezbekownia](https://github.com/sebastianhaber/bezbekownia) - React WebApp with memes. Add your own pictures, like and comment other's memes. Connected to Strapi.
 - 🔫 [Infonite](https://github.com/sebastianhaber/infonite "Infonite") - app with current shop in Fortnite. Built with [Fortnite-api](https://fortnite-api.com/).
 - 💲 Money Management - (Private) React Native App, which is created for people who have problems with money controlling.
