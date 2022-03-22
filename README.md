@@ -4,7 +4,7 @@
 
 - 🏫 I'm a student
 - 👀 I'm looking for my first job
-- 🚀 Currently I am working on Bezbekownia and Money Management
+- 🚀 Currently I am working on [Bezbekownia](https://github.com/sebastianhaber/bezbekownia) and Money Management
 
 <br />
 
